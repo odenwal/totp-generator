@@ -1,8 +1,10 @@
 # Generate time-based one time passwords in the browser
 
-![](totp-generator.png)
 
 [Demo](https://totp.danhersam.com/)
+[my Demo](https://odenwal.github.io/totp-generator/)
+
+https://github.com/odenwal/totp-generator/
 
 This page lets you easily generate a time-based one time password (TOTP) entirely in the web browser in case you ever lose access to your phone.
 
